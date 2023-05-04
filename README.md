@@ -2,7 +2,7 @@
 - 👀 I’m interested in to roadmap a deployments DevOps Projects 
 - 🌱 I’m currently learning Pulumi
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me fabian.oswaldovera@globamt.com
+- 📫 How to reach me fabian.oswaldovera@globant.com
 
 <!---
 fabianveraglobant/fabianveraglobant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
