@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fabianveraglobant
 - 👀 I’m interested in to roadmap a deployments DevOps Projects 
-- 🌱 I’m currently learning Pulumi
+- 🌱 I’m currently learning CICD GitHub Actions and ARGO CD
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me fabian.oswaldovera@globant.com
 
